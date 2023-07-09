@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.h1{
+    background-image: url("./images/banner/banner3.png");
+    background-repeat: no-repeat;
+}
+.a1{
+    font-size: 65px;
+    font-weight: 700;
+    color: white;
+    text-align: end;
+}
+.a{
+    padding-right: 230px;
+    padding-top: 210px;
+}
+.b{
+    display: block;
+    padding-right: 230px;
+    padding-top: 24px;
+    padding-bottom: 32px;
+}
+.b1{
+    color: white;
+    text-align: end;
+    font-size: 16px;
+    font-weight: 400;
+}
+.btn{
+    display: block;
+    padding-left: 1140px;
+    padding-bottom: 166px;
+}
+.btn2{
+    padding: 20px 25px;
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600px;
+    
+}
