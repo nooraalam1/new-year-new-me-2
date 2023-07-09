@@ -31,7 +31,7 @@
 .btn{
     display: block;
     padding-left: 1140px;
-    padding-bottom: 166px;
+    padding-bottom: 180px;
 }
 .btn2{
     padding: 20px 25px;
@@ -39,4 +39,32 @@
     font-size: 20px;
     font-weight: 600px;
     
+}
+.m3>p{
+    font-size: 40px;
+    font-weight: 700;
+}
+.m3>.m4{
+    font-size: 16px;
+    color: #444343;
+    padding-top: 24px;
+    padding-bottom: 16px;
+}
+.m1{
+    display: flex;
+    justify-content: space-around;
+}
+.m3{
+    padding-top: 200px;
+}
+.m2{
+    height: 528px;
+    width: 528px;
+    border-radius: 528px;
+    background-color: lightseagreen;
+    justify-content: center;
+    
+}
+.s2{
+    display: flex;
 }
